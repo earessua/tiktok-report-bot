@@ -1,5 +1,5 @@
 # <h1 align="center">🚀 TIKTOK REPORT BOT</h1>  
-<p align="center"><img src="logo.png" width="150px" height="150px" alt="insta logo"></p>
+<p align="center"><img src="logo.png" width="150px" height="350px" alt="insta logo"></p>
 This program will help you to delete an TikTok account by the fact that it contains a lot of accounts that were created with the help of a program (bulk accs) , every month an update is made automatically to users and proxies.
 
 ---
