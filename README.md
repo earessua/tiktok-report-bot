@@ -16,7 +16,7 @@ This program will help you to delete an TikTok account by the fact that it conta
   <a href="https://tinyurl.com/mr4tnv5b"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 </p>  
 
----
+----
 
 **Legal Notice**
 
